@@ -16,4 +16,4 @@ In this simulation a 2D plate is being drilled by a drill object (here a cube). 
 The`./Recordings` folder contains several recordings during the game play, like as shown below,
 <p align="center"><img src="https://github.com/saha0073/Drilling-Objects-In-VR/blob/main/Recordings/oculus_drilling_8sec.gif" style="width:80%"\></p>
 
-The drilling implementation on objects has been inspired from Snow Tracks Shader by [Mert Kirimgeri](https://www.youtube.com/watch?v=ThlqTMBzyjI&ab_channel=MertKirimgeri).  
+The drilling implementation has been inspired from Snow Tracks Shader by [Mert Kirimgeri](https://www.youtube.com/watch?v=ThlqTMBzyjI&ab_channel=MertKirimgeri).  
