@@ -1,6 +1,6 @@
 # Drilling-Objects-In-VR
 
-Drilling Objects In VR with Unity
+Drilling Objects In VR with Unity using Shader Graph
 
 <img src="https://github.com/saha0073/Drilling-Objects-In-VR/blob/main/capture.png" width="750">
 
